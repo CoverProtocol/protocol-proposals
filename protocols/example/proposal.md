@@ -8,7 +8,7 @@ Explain how users use your protocol, where the funds would be at risk and where 
 # Protocol Stats
 * Protocol age: `X months`
 * Protocol TVL: `$$$$`
-* Collaterals in Protocol: `DAI, ETH, BTC, etc…`
+* Collaterals in Protocol: `DAI, ETH, BTC, etc.`
 
 # Protocol Risk
 
@@ -30,12 +30,12 @@ Preferably list out possible incidents that can occur and that the team of `**{P
 
 If answer is **NO**, please go to our [documentation site](https://docs.coverprotocol.com) to get familiar with Cover Protocol before proceed. 
 
-### [Optionl] What kind if collateral do you prefer?
+### [Optionl] What kind of collateral do you prefer?
 `{yDai: 0x16de59092dae5ccf4a1e6439d611fd0653f0bd01}`
 
 *Recommendation: a yield earning collateral will attract more liquidity for coverages of your porotocol.*
 
-### [Optionl] What kind if expiration date do you prefer?
+### [Optionl] What kind of expiration date do you prefer?
 `{End of Month}`
 
 *Recommendation: due to the fast nature of DeFi, we recommend monthly (default) expiration date.*
