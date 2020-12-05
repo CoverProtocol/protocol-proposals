@@ -36,7 +36,7 @@ If answer is **NO**, please go to our [documentation site](https://docs.coverpro
 *Recommendation: a yield earning collateral will attract more liquidity for coverages of your porotocol.*
 
 ### [Optionl] What kind of expiration date do you prefer?
-**`{End of Month}`**
+**`End of Month`**
 
 *Recommendation: due to the fast nature of DeFi, we recommend monthly (default) expiration date.*
 
