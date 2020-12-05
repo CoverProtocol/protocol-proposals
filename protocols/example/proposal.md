@@ -19,12 +19,15 @@ Explain how users use your protocol, where the funds would be at risk and where 
 
 ### Risk Details & Audits
 ```
-Detail the risks and organization of your protocol. Please attach a link to audits if they have been received.
+Detail the risks and organization of your protocol.
+Please attach a link to audits if they have been received.
 ```
 
 ### Main User Concern
 ```
-Explain where the risks of your users are mainly concerned. Including who has control (multi-sigs, DAOs, etc.) and what is capable from the entity capable of control/modification. This is where your users should be convinced that coverage is valuable for them and the protocol.
+Explain where the risks of your users are mainly concerned. 
+Including who has control (multi-sigs, DAOs, etc.) and what is capable from the entity capable of control/modification. 
+This is where your users should be convinced that coverage is valuable for them and the protocol.
 ```
 
 ### Possible Incident List
