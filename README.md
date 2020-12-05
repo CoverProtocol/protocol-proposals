@@ -11,4 +11,4 @@ Fill out the `Protocol Proposal.docx` document (under `your_protocol` folder) en
 * `logo.png` has to be a *transparent* square logo of your protocol
 
 # Step 3
-Submit a pull request to [CoverProtocol/protocol-proposals (github.com)](https://github.com/CoverProtocol/protocol-proposals/tree/main) and we will review the PR and notify you if there are any changes that need to be made before we add your protocol.
+Submit a pull request to [CoverProtocol/protocol-proposals](https://github.com/CoverProtocol/protocol-proposals/tree/main) and we will review the PR and notify you if there are any changes that need to be made before we add your protocol.
