@@ -33,7 +33,7 @@ If answer is **NO**, please go to our [documentation site](https://docs.coverpro
 ### [Optionl] What kind if collateral do you prefer?
 `{yDai: 0x16de59092dae5ccf4a1e6439d611fd0653f0bd01}`
 
-*Recommendation: a yield earning collateral will attract more liquidity for coverages of your porotocols.*
+*Recommendation: a yield earning collateral will attract more liquidity for coverages of your porotocol.*
 
 ### [Optionl] What kind if expiration date do you prefer?
 `{End of Month}`
