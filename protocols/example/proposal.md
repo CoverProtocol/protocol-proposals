@@ -65,6 +65,4 @@ If **NO**, there will be a charge of **1 ETH** to cover deploy cost. Please send
 If **YES**, follow [instructions here](https://docs.coverprotocol.com/collaboration/new).
 
 ### How can we contact you?
-
-### Risk Details & Audits
 Please list a point of contact and the communication channel (discord or telegram).
