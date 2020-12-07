@@ -4,7 +4,6 @@ A short (~200 word) description of the protocol this proposal is for.
 # Protocol Usage
 Explain how users use your protocol, where the funds would be at risk and where the coverage is specifically desired.
 
-
 # Protocol Stats
 * Protocol age: **`X months`**
 * Protocol TVL: **`$$$$`**
@@ -49,7 +48,6 @@ If answer is **NO**, please go to our [documentation site](https://docs.coverpro
 
 *Read about bonus token program [here](https://app.gitbook.com/@cover-protocol/s/docs/collaboration/bonus).*
 
-
 ### Will you become a Market Maker (MM) and/or Coverage Provider (CP)?
 **`Market Maker or Coverage Provider or Both`**
 
@@ -65,3 +63,8 @@ If answer is **NO**, please go to our [documentation site](https://docs.coverpro
 If **NO**, there will be a charge of **1 ETH** to cover deploy cost. Please send it to our dev multi-sig **0x15957f0CA310d35b2E73fB5070Ce44A5B0141AB1**.
 
 If **YES**, follow [instructions here](https://docs.coverprotocol.com/collaboration/new).
+
+### How can we contact you?
+
+### Risk Details & Audits
+Please list a point of contact and the communication channel (discord or telegram).
