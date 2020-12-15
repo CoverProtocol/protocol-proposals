@@ -43,9 +43,5 @@ If answer is **NO**, please go to our [documentation site](https://docs.coverpro
 ### Will you be able to work with Cover Protocol to initiate the coverage for your protocol?
 **`Yes`**
 
-If **NO**, there will be a charge of **1 ETH** to cover deploy cost. Please send it to our dev multi-sig **0x15957f0CA310d35b2E73fB5070Ce44A5B0141AB1**.
-
-If **YES**, follow [instructions here](https://docs.coverprotocol.com/collaboration/new).
-
 ### How can we contact you?
 Contact the admins on the Stabilize Telegram group or in the pull request
