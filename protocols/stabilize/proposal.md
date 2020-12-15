@@ -15,7 +15,6 @@ Users deposit into Stabilize protocol wraps to earn compound interest on their d
 Risks of protocol include smart contract risks and exposure to undiscovered exploits. There have been 2 initial community audits.
 
 ### Main User Concern
-This is where your users should be convinced that coverage is valuable for them and the protocol.
 The main concern is being exposed to an undiscovered exploit. The protocol has a mixture of fixed and active pools. The active pools can be changed by the team after a 24 hour timelock. Stabilize pools can also deposit into other protocols to earn yield. If these protocols have underlying issues, Stabilize users will be exposed.
 
 ### Possible Incident List
@@ -24,8 +23,6 @@ Stabilize team would like coverage for all types of protocol drainage exploits.
 # Checklist
 ### Do you understand how Cover Protocol works?
 **`Yes`**
-
-If answer is **NO**, please go to our [documentation site](https://docs.coverprotocol.com) to get familiar with Cover Protocol before proceed. 
 
 ### [Optionl] What kind of collateral do you prefer?
 **`Dai: 0x6B175474E89094C44Da98b954EedeAC495271d0F`**
