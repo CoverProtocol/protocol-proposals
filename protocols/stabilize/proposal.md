@@ -1,1 +1,51 @@
+# Protocol Summary
+Stabilize is a protocol designed to help the stability of stablecoins and other major cryptocurrencies through the use of rebalances and STBZ rewards.
 
+# Protocol Usage
+Users deposit into Stabilize protocol wraps to earn compound interest on their deposit then stake those wrapped tokens into the various pools to earn STBZ rewards. Funds to be insured would be those placed into the wraps then staked in the pool.
+
+# Protocol Stats
+* Protocol age: **`3 months`**
+* Protocol TVL: **`$1.6 million`**
+* Collaterals in Protocol: **`DAI, USDC, USDT, sUSD, renBTC, wBTC, sBTC`**
+
+# Protocol Risk
+
+### Risk Details & Audits
+Risks of protocol include smart contract risks and exposure to undiscovered exploits. There have been 2 initial community audits.
+
+### Main User Concern
+This is where your users should be convinced that coverage is valuable for them and the protocol.
+The main concern is being exposed to an undiscovered exploit. The protocol has a mixture of fixed and active pools. The active pools can be changed by the team after a 24 hour timelock. Stabilize pools can also deposit into other protocols to earn yield. If these protocols have underlying issues, Stabilize users will be exposed.
+
+### Possible Incident List
+Stabilize team would like coverage for all types of protocol drainage exploits.
+
+# Checklist
+### Do you understand how Cover Protocol works?
+**`Yes`**
+
+If answer is **NO**, please go to our [documentation site](https://docs.coverprotocol.com) to get familiar with Cover Protocol before proceed. 
+
+### [Optionl] What kind of collateral do you prefer?
+**`Dai: 0x6B175474E89094C44Da98b954EedeAC495271d0F`**
+
+### [Optionl] What kind of expiration date do you prefer?
+**`1 Month`**
+
+### Will you sponsor a bonus token for the CLAIM/NOCLAIM trading pools?
+* **`No`**
+
+### Will you become a Market Maker (MM) and/or Coverage Provider (CP)?
+**`No`**
+
+
+### Will you be able to work with Cover Protocol to initiate the coverage for your protocol?
+**`Yes`**
+
+If **NO**, there will be a charge of **1 ETH** to cover deploy cost. Please send it to our dev multi-sig **0x15957f0CA310d35b2E73fB5070Ce44A5B0141AB1**.
+
+If **YES**, follow [instructions here](https://docs.coverprotocol.com/collaboration/new).
+
+### How can we contact you?
+Contact the admins on the Stabilize Telegram group or in the pull request
