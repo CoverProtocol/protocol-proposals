@@ -37,7 +37,7 @@ Preferably list out possible incidents that can occur and that the team of `**Fi
 If answer is **NO**, please go to our [documentation site](https://docs.coverprotocol.com) to get familiar with Cover Protocol before proceed. 
 
 ### [Optionl] What kind of collateral do you prefer?
-**`USDC: 0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48`**
+**`yDai: 0x16de59092dae5ccf4a1e6439d611fd0653f0bd01`**
 
 *Recommendation: a yield earning collateral will attract more liquidity for coverages of your porotocol.*
 
